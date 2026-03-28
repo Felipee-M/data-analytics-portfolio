@@ -105,7 +105,9 @@ Allows users to select multiple non-sequential months, enabling customized compa
 
 ## 🎥 Demo
 
-[![Watch the demo](https://img.youtube.com/vi/d6BwChij24/0.jpg)](https://youtu.be/cl6BwChjj24)
+Watch the full dashboard demo here:
+
+👉 [Watch the demo](https://youtu.be/cl6BwChjj24)
 
 ---
 
